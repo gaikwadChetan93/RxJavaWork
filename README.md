@@ -10,4 +10,4 @@ Sample RxJava2 sample to get hands on
 
 4. Disposable & CompositeDisposable
 
-5.Operators like filter(), map()
+5. Operators like filter(), map()
